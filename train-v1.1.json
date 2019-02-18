@@ -1,0 +1,44 @@
+{"data":[{"title":"Terms and Conditions","paragraphs":[
+{
+  "articleId": "12345",
+  "context": "This policy shall be void if the Life Assured (whether sane or insane) commits suicide at any time within 12 months from the date of commencement of risk or within 12 months from the date of revival and the Corporation will not entertain any claim under this policy except to the extent of 80% of the premiums paid till the date of death excluding any taxes, extra premium, if any, provided the policy is inforce. ",
+  "qas": [
+    {
+      "question": "What will happen if the assured commit suicide ?",
+      "answers": [
+        {
+          "text": "This policy shall be void if the Life Assured (whether sane or insane) commits suicide",
+          "answer_start": 0
+        }
+      ],
+      "id": "1234567"
+    },
+    {
+      "question": "How much will the premium paid ?",
+      "answers": [
+        {
+          "text": "to the extent of 80% of the premiums paid till the date of death",
+          "answer_start": 273
+        }
+      ],
+      "id": "1234568"
+    }
+  ]
+},
+{
+  "articleId": "12346",
+  "context": "If the Policyholder is not satisfied with the “Terms and Conditions” of the policy, the policy may be returned to us within 30 days from the date of receipt of the policy bond stating the reason of objections. On receipt of the same the Corporation shall cancel the policy and return the amount of premium deposited after deducting the proportionate risk premium for the period on cover, stamp duty charges, expenses for medical examination and special reports, if any. ",
+  "qas": [
+    {
+      "question": "What if the policyholder is not satisfied with the terms and conditions ?",
+      "answers": [
+        {
+          "text": "the policy may be returned to us within 30 days from the date of receipt of the policy",
+          "answer_start": 84
+        }
+      ],
+      "id": "1234567"
+    }
+  ]
+}
+]}]}
